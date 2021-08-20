@@ -1,0 +1,6 @@
+- new
+- connecting
+- connected
+- disconnected
+- failed
+- closed

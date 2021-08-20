@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "c4268ff7920f5568",
+    "type": "split",
+    "children": [
+      {
+        "id": "8be01f96e7c78ce4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WebRTC/RTCPeerConnection.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbd69efc33274324",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b763b391db20f6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1fb00987c6004de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "673b2901933fad9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4781bb67b946af2b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14c04f7e0ef6da77",
+    "type": "split",
+    "children": [
+      {
+        "id": "be6f86bb329a6641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e24ca0593feb0c20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WebRTC/RTCPeerConnection.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76493635f69de5c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72a1deb8dd4be45a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WebRTC/RTCPeerConnection.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8be01f96e7c78ce4",
+  "lastOpenFiles": [
+    "WebRTC/RTCPeerConnection.md",
+    "WebRTC/RTCPeerConnectionState.md",
+    "WebRTC/RTCDataChannel.md",
+    "WebRTC/index.md",
+    "WebRTC/ICE Candidate.md",
+    "WebRTC/MediaStreamTrack.md",
+    "WebRTC/MediaStream.md",
+    "WebRTC/Pasted image 20210820220409.png",
+    "Untitled.md",
+    "WebRTC/PTCPeerConnection.md"
+  ]
+}
