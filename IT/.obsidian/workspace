@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8be01f96e7c78ce4",
+        "id": "18b6b9f2420d8d2d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "WebRTC/RTCPeerConnection.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,14 +73,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebRTC/RTCPeerConnection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,29 +99,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WebRTC/RTCPeerConnection.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8be01f96e7c78ce4",
+  "active": "18b6b9f2420d8d2d",
   "lastOpenFiles": [
     "WebRTC/RTCPeerConnection.md",
+    "WebRTC/RTCSessionDescription.md",
     "WebRTC/RTCPeerConnectionState.md",
-    "WebRTC/RTCDataChannel.md",
-    "WebRTC/index.md",
-    "WebRTC/ICE Candidate.md",
+    "WebRTC/SessionDescription.md",
+    "WebRTC/Signaling.md",
     "WebRTC/MediaStreamTrack.md",
-    "WebRTC/MediaStream.md",
-    "WebRTC/Pasted image 20210820220409.png",
-    "Untitled.md",
-    "WebRTC/PTCPeerConnection.md"
+    "WebRTC/NAT.md",
+    "WebRTC/SDP.md",
+    "WebRTC/RTCDataChannel.md",
+    "WebRTC/MediaStream.md"
   ]
 }
